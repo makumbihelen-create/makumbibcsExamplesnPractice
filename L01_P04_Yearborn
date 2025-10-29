@@ -1,0 +1,10 @@
+public  class L01_P02_Area
+{
+    public static void main (String[] args){
+        int currentyear = 2025;
+        int age = 18;
+        int yearborn = (currentyear-age);
+        System.out.println("You were born in" + yearborn);
+    }
+    
+}

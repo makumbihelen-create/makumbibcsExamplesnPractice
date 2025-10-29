@@ -1,0 +1,10 @@
+public  class L01_P06_Hypot
+{
+    public static void main (String[] args){
+        double adj = 5.5 ;
+        double opp = 3.5;
+        double hyp = Math.sqrt( adj*adj+opp*opp) ;
+        System.out.println("The hypotenuse is " + hyp);
+    }
+    
+}
