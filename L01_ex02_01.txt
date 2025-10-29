@@ -1,8 +1,13 @@
-//Example 2: Writing a text on the screen 
+/*Author: Helen Makumbi
+Description: Addition of Integers
+Version: AI29
+*/
+
 public class L01_ex02_01 
 { 
 public static void main (String[] args) 
 { 
 System.out.println( 5 + 10 ); 
 } 
+
 } 
