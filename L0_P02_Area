@@ -3,8 +3,9 @@ public  class L01_P02_Area
     public static void main (String[] args){
         int width = 7;
         int height = 3;
-        double area = 0.5*width*height;
+        double area = width*height;
         System.out.println(area);
     }
     
 }
+
