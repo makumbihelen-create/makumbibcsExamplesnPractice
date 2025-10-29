@@ -1,4 +1,7 @@
-/* With double, we can perform operations with decimal numbers. */
+/*Author: Helen Makumbi
+Description: With double, we can perform operations with decimal numbers.
+Version: DDP29
+*/
 
 public class L01_ex04_01_01 
 { 
@@ -9,4 +12,5 @@ public class L01_ex04_01_01
        
       System.out.println(num1 / num2); 
    } 
+
 } 
