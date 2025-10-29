@@ -1,6 +1,6 @@
 /*Author: Helen Makumbi
 Description:Adding values to the variable, after creating it.(method 2)
-Version:AVC29
+Version:AVC29M2
 */
 
 public class L01_ex03_03 
@@ -11,3 +11,4 @@ public class L01_ex03_03
    } 
 
 } 
+
